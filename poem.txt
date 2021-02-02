@@ -1,7 +1,6 @@
-RAINBOW
+RAINBOW and UNICORN
 
 violet
-indigo
 blue
 green 
 yellow
